@@ -6,7 +6,7 @@ url = 'https://discord.com/api/v9/users/@me/settings'
 contento = 'application/json'
 dataz = '{"custom_status":{"text":"November 2022"}}'
 dato = '{"custom_status":{"text":"Skill tree application coming out in"}}'
-auth = 'mfa.FFv89c1uN2JUJ7Vf0yAjjWzhyxCxn9kDOJhVdQ795KDaTkQuNZknErhOrqhcVJMUrjCSJRTgYKNwS0CJ9dMF'
+auth = 'Put your discord token here'
 
 while True:
     header = {
